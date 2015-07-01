@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>91792FE2-17F3-42E5-82A3-D16F6D227C95</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Scanner</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>28385AB2B3D33AD4C2725F3CECE3479406CCB568</key>
+		<string>https://github.com/runnphoenix/scanner.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Scanner.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>28385AB2B3D33AD4C2725F3CECE3479406CCB568</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/runnphoenix/scanner.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>28385AB2B3D33AD4C2725F3CECE3479406CCB568</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>28385AB2B3D33AD4C2725F3CECE3479406CCB568</string>
+			<key>IDESourceControlWCCName</key>
+			<string>scanner</string>
+		</dict>
+	</array>
+</dict>
+</plist>
